@@ -15,3 +15,7 @@ img{
 }
 
 /* Generale */
+
+.flex {
+    display:flex;
+}
