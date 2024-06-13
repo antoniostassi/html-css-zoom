@@ -100,7 +100,7 @@ footer .my-row2-3 ul {
     justify-content:center;
 }
 
-footer .my-row2-3 ul li {
+footer ul li {
     padding-top:15px;
     padding-bottom:5px;
     font-size:30px;
@@ -108,7 +108,12 @@ footer .my-row2-3 ul li {
     margin-left:15px;
     margin-right:15px;
 }
-footer .my-row2-3 ul li p,
+
+footer .my-row1-6 a p.relative{
+    right:10px;
+}
+
+footer ul li p,
 footer .small{
     font-size:15px;
 }
