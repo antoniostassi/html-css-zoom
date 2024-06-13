@@ -1,0 +1,9 @@
+
+.debug.true .row{
+    border:1px solid white;
+}
+
+.debug.true .profile{
+    border:1px solid white;
+    min-height:50px;
+}
