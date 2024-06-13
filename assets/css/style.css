@@ -112,3 +112,12 @@ footer .my-row2-3 ul li p,
 footer .small{
     font-size:15px;
 }
+
+footer .quit-button{
+    position:absolute;
+    text-align:right;
+    background-color:#4A4A4A;
+    color:red;
+    padding:31px;
+    right:0;
+}
