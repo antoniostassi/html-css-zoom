@@ -7,3 +7,12 @@
     border:1px solid white;
     min-height:50px;
 }
+
+.debug.true .my-row1-6{
+    border:3px dashed red;
+    
+}
+
+.debug.true .my-row2-3{
+    border:3px dashed white;
+}
